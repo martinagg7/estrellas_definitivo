@@ -1,11 +1,11 @@
 # estrellas_definitivo
 
-#Objetivo
+# Objetivo
 Dibujar una estrellas de n puntas como la del modelo
 
-#Requisitos
+# Requisitos
 Importar la libreria turle
 
-#Link
+# Link
 link repositorio:
 nombre usuario:
